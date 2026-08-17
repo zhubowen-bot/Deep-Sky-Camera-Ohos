@@ -1,5 +1,7 @@
 # Deep Sky Camera
 
+> 鸿蒙版源码位于 [`HarmonyOS/`](HarmonyOS/README.md)，使用 ArkTS + Camera Kit 开发，界面已中文化。
+
 A camera app for photographing the night sky with an Android phone. You pick how
 long you want to gather light for — 10 seconds, 30 seconds, or keep going until
 you stop it — and the app works out every camera setting for you.

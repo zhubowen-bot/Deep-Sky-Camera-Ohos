@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "深空相机"
+    },
+    {
+      "name": "module_desc",
+      "value": "深空相机鸿蒙版"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "深空相机主入口"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "深空相机"
+    },
+    {
+      "name": "camera_permission_reason",
+      "value": "用于拍摄夜空照片并进行多帧叠加"
+    }
+  ]
+}

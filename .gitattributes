@@ -10,3 +10,7 @@ gradlew text eol=lf
 *.jks binary
 *.keystore binary
 *.png binary
+
+
+*.ets linguist-language=TypeScript
+**/*.ets linguist-language=TypeScript
